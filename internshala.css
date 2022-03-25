@@ -1,0 +1,279 @@
+.one{
+    margin-left: 820px;
+}
+
+.two{
+    padding:10px;
+}
+.three{
+    
+    padding:10px;
+}
+.four{
+    padding:10px;
+}
+.five{
+    padding:10px;
+}
+.six{
+    padding:10px;
+}
+.seven{
+    padding:10px;
+}
+.eight{
+    padding:10px;
+}
+.nine{
+    padding:10px;
+}
+.ten{
+    padding:10px;
+}
+.ones{
+    padding:10px;
+    display:inline-block
+}
+.twos{
+    font-size: 50px;
+}
+.threes{
+    font-size: 50px;
+    color:red;
+}
+.fours{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.fives{
+    padding-bottom: 10px;
+    margin-left: 10px;
+}
+.ramarao{
+    font-size: 40px;
+}
+.vamsi{
+    color:red;
+}
+.tarun{
+    color:red;
+}
+.sanjay{
+    margin-bottom: 100px;
+}
+.surya{
+    font-size: 20px;
+}
+.we{
+    color: red;
+}
+.of{
+    color: red; 
+}
+.charan{
+    font-size: 20px;
+}
+.sathvika{
+    background-color: lightgray;
+}
+.rams{
+    margin-bottom: 50px;
+}
+.asri{
+    margin-left: 550px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.a{
+    color:red;
+}
+.b{
+    color:red;
+}
+.c{
+    color:red;
+}
+.d{
+    font-size: 20px; 
+}
+.e{
+    font-size: 20px;
+}
+.f{
+    font-size: 20px;
+}
+.g{
+    
+        padding-bottom: 10px;
+        margin-left: 10px;
+    
+}
+.h{
+    
+    padding-bottom: 10px;
+    margin-left: 10px;
+
+}
+.i{
+    padding-bottom: 10px;
+    margin-left: 10px; 
+}
+.sath{
+    margin-left: 550px;
+    font-size: 20px;
+    margin-bottom: 30px;
+} 
+.z{
+    margin-bottom: 50px;   
+}
+.item{
+    height: 300px;
+    width: 85%;
+    border: solid 1px whitesmoke;
+   
+}
+.x{
+    background: red;
+    padding: 20px;
+}
+.charans{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 33%;
+    margin-top: 33px;
+}
+.web{
+   color: red;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.webs{
+    font-size: 20px;
+    margin-left: 40px;
+}
+.srinus{
+    color: red;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.sabi{
+    color: red;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 25px;
+    margin-left: 25px;
+}
+.sabira{
+    color: red;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 25px;
+    margin-left: 25px;
+}
+.sjad{
+    color: white;
+    background-color: red;
+    padding: 15px;
+}
+
+.sajid{
+    margin-top: 30px;
+}
+.some{
+    margin-left: 600px
+}
+.sum{
+    margin-top: 30px
+}
+
+@media only screen and (min-width: 462px) and (max-width: 1016px)  {
+.one{
+    margin-left: 330px;
+}
+.twos {
+    font-size: 40px;
+}
+.threes {
+    font-size: 40px;
+    color: red;
+}
+.sanjay{
+    margin-top: 30px;
+}
+.twos{
+    margin-top: 20px;
+}
+.fours {
+    font-size: 17px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.ramarao {
+    font-size: 30px;
+}
+.surya {
+    font-size: 20px;
+    margin-top: 20px;
+}
+.asri {
+    margin-left: 380px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.a{
+    margin-top: 15px;
+    font-size: 25px;
+}
+.d{
+    margin-top: 10px;
+}
+.b{
+    margin-top: 15px;
+    font-size: 25px;
+}
+.e{
+    margin-top: 10px;
+}
+.c{
+    margin-top: 15px;
+    font-size: 25px;
+}
+.f{
+    margin-top: 10px;
+}
+.g{
+    margin-top: 47px;
+}
+.sath{
+    margin-left: 380px;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.web {
+    color: red;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.webs {
+    font-size: 17px;
+    margin-left: 30px;
+}
+.sabi{
+    font-size: 20px
+}
+.srinus {
+    font-size: 20px;
+    margin-left: 30px;
+}
+.sabira{
+    font-size: 20px
+}
+
+.some {
+    margin-left: 380px;
+}
+
+}
